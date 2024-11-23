@@ -30,5 +30,5 @@
 </div>
 
 <div align=center>
-<h3> Happy coding😊!</h3>
+<p> Happy coding😊!</p>
 </div>
