@@ -7,7 +7,7 @@
 </pre>
 
 <div align=center>
-  <a href="https://albertniyonsenga.com"> 🌐</a> 
+  <a href="#"> 🌐</a> 
   <a href="mailto:albertniyon@gmail.com">📧</a> 
   <a href="https://www.linkedin.com/in/albertniyonsenga/">💼</a>
 </div>
