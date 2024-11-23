@@ -7,17 +7,19 @@
 </pre>
 
 <div align=center>
-  <a href="https://albertniyonsenga.com" style="text-decoration:none; margin-right:50px;"> 🌐</a> 
-  <a href="mailto:albertniyon@gmail.com" style="text-decoration:none; margin-right:50px;">📧</a> 
-  <a href="https://www.linkedin.com/in/albertniyonsenga/" style="text-decoration:none;">💼</a>
+  <a href="https://albertniyonsenga.com"> 🌐</a> 
+  <a href="mailto:albertniyon@gmail.com">📧</a> 
+  <a href="https://www.linkedin.com/in/albertniyonsenga/">💼</a>
 </div>
 <br>
 <br>
 
 <div align=center>
-  
+    
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B8B?logo=streamlit&logoColor=white) 
+  ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
   ![Dash](https://img.shields.io/badge/-Dash-000000?logo=plotly&logoColor=white)
@@ -28,5 +30,5 @@
 </div>
 
 <div align=center>
-<h3> Happy coding 😊</h3>
+<h3> Happy coding😊!</h3>
 </div>
