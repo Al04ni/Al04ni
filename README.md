@@ -10,6 +10,7 @@
   <a href="#">🌐</a> 
   <a href="mailto:albertniyon@gmail.com">📧</a> 
   <a href="https://www.linkedin.com/in/albertniyonsenga/">💼</a>
+  <a href="https://github.com/albertniyonsenga">🏫</a>
 </div>
 <br>
 <br>
