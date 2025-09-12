@@ -26,7 +26,7 @@
 
 <div align=center>
 <p> Hello 🙋‍♂️, </p>
-<p> I'm <b>Albert NIYONSENGA</b>, a freshman in Bsc. in Software Eng. at <a href="https://www.alueducation.com/">African Leadership University</a> blazing trails in system programming and AI/ML, driven by curiosity and a bold vision to push the boundaries of what I can build.</p>
+<p> I'm <b>Albert NIYONSENGA</b>, a sophomore in Bsc. in Software Eng. at <a href="https://www.alueducation.com/">African Leadership University</a> blazing trails in system programming and AI/ML, driven by curiosity and a bold vision to push the boundaries of what I can build.</p>
 <br>
 <p> Happy Coding 👻 </p>
 </div>
