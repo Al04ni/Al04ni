@@ -5,8 +5,8 @@
 </pre>
 <div align=center>
   <a href="#">🌐</a> 
-  <a href="https://www.linkedin.com/in/albertniyonsenga/">💼</a>
-  <a href="https://github.com/albert-niyonsenga">🏫</a>
+  <a href="https://www.linkedin.com/in/albert-niyonsenga/">💼</a>
+  <a href="https://github.com/albertniyonsenga">🏫</a>
 </div>
 <br>
 <br>
